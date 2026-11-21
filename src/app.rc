@@ -1,0 +1,4 @@
+#include <windows.h>
+
+/* icon only — the Common Controls v6 + DPI manifest comes from MinGW's default-manifest.o */
+1 ICON "app.ico"
