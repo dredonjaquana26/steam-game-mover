@@ -1,0 +1,10 @@
+# build output
+build/
+*.o
+*.obj
+
+# generated icon preview (the .ico is committed; the png is just a preview)
+src/app_icon.png
+
+# release artifacts (go to GitHub Releases, not the repo)
+SteamGameMover.zip
